@@ -13,7 +13,6 @@ Dataset: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 - [Modeling Process](#modeling-process)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Data
 The dataset used for this analysis contains housing data with various features that may affect housing prices, such as location, size, and quality. Ensure you have the data file in the correct directory for the notebook to load and analyze it.
